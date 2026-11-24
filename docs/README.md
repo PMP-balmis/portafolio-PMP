@@ -2,18 +2,17 @@
 
 ## ¿Quién soy?
 
-Soy **Patron**, estudiante del ciclo de informática, y este es mi portfolio de documentación técnica.
+Soy **Pablogi**, estudiante del ciclo de informática. Este es mi portfolio de documentación técnica del módulo de Sistemas Informáticos.
 
 ## ¿Qué es este portfolio?
 
-Un sitio hecho con **Docsify** que recoge el trabajo de cada unidad del módulo. Lo desarrollo en local (`http://localhost:3000`) y se publica automáticamente en **GitHub Pages** con **GitHub Actions**.
+Es un sitio de documentación hecho con **Docsify** que recoge el trabajo de cada unidad. Lo desarrollo y reviso en local (`http://localhost:3000`) y se publica automáticamente en **GitHub Pages** mediante **GitHub Actions** cada vez que hago `git push` a la rama `main`.
 
 ## Estado de las unidades
 
 | Unidad | Tema | Estado |
 | ------ | ---- | ------ |
-| UT1 | Arquitectura y componentes | En progreso |
-| UT7 | Documentación técnica | Con 2 páginas de contenido |
+| UT7 | Elaboración de documentación técnica | Completada (7.1 a 7.6 y síntesis) |
+| UT1 | Arquitectura y componentes | Pendiente de completar |
 
-> [!NOTE]
-> Este portfolio se actualiza con cada `git push` a la rama `main`.
+?> Para navegar por el portfolio usa el menú lateral de la izquierda.
